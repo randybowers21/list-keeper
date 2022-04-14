@@ -1,0 +1,166 @@
+{
+  "todolists": [
+    {
+      "title": "Randys List",
+      "id": 1
+    },
+    {
+      "title": "Groceries",
+      "id": 2
+    },
+    {
+      "title": "Chores",
+      "id": 3
+    },
+    {
+      "title": "Math",
+      "id": 4
+    },
+    {
+      "title": "Trials",
+      "id": 5
+    },
+    {
+      "title": "sinister",
+      "id": 6
+    },
+    {
+      "title": "Wallball",
+      "id": 7
+    },
+    {
+      "title": "Billbo",
+      "id": 8
+    },
+    {
+      "title": "Lords",
+      "id": 9
+    },
+    {
+      "title": "Boxing",
+      "id": 10
+    }
+  ],
+  "todoitems": [
+    {
+      "description": "Grow up",
+      "isCompleted": true,
+      "todolistId": 1,
+      "id": 1
+    },
+    {
+      "description": "Laundry",
+      "isCompleted": false,
+      "todolistId": 3,
+      "id": 2
+    },
+    {
+      "description": "Wash Hands",
+      "isCompleted": true,
+      "todolistId": 3,
+      "id": 3
+    },
+    {
+      "description": "Make dinner",
+      "isCompleted": true,
+      "todolistId": 3,
+      "id": 4
+    },
+    {
+      "description": "Clean House",
+      "isCompleted": true,
+      "todolistId": 3,
+      "id": 5
+    },
+    {
+      "description": "Vacuum",
+      "isCompleted": false,
+      "todolistId": 3,
+      "id": 6
+    },
+    {
+      "description": "Apples",
+      "isCompleted": false,
+      "todolistId": 2,
+      "id": 7
+    },
+    {
+      "description": "Eggs",
+      "isCompleted": false,
+      "todolistId": 2,
+      "id": 8
+    },
+    {
+      "description": "Get a Life",
+      "isCompleted": true,
+      "todolistId": 1,
+      "id": 9
+    },
+    {
+      "description": "Run away",
+      "isCompleted": false,
+      "todolistId": 1,
+      "id": 10
+    },
+    {
+      "description": "2+2=4",
+      "isCompleted": true,
+      "todolistId": 4,
+      "id": 11
+    },
+    {
+      "description": "Try harder",
+      "isCompleted": false,
+      "todolistId": 4,
+      "id": 12
+    },
+    {
+      "description": "cry harder",
+      "isCompleted": true,
+      "todolistId": 4,
+      "id": 13
+    },
+    {
+      "description": "Scary",
+      "isCompleted": true,
+      "todolistId": 6,
+      "id": 14
+    },
+    {
+      "description": "Lose miserably",
+      "isCompleted": true,
+      "todolistId": 7,
+      "id": 15
+    },
+    {
+      "description": "Misspell names",
+      "isCompleted": true,
+      "todolistId": 8,
+      "id": 16
+    },
+    {
+      "description": "Get knocked out",
+      "isCompleted": true,
+      "todolistId": 10,
+      "id": 17
+    },
+    {
+      "description": "knock someone else out",
+      "isCompleted": false,
+      "todolistId": 10,
+      "id": 18
+    },
+    {
+      "description": "Ghosts",
+      "isCompleted": false,
+      "todolistId": 6,
+      "id": 19
+    },
+    {
+      "description": "Feed Dogs",
+      "isCompleted": false,
+      "todolistId": 3,
+      "id": 20
+    }
+  ]
+}
