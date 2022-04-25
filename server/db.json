@@ -128,7 +128,7 @@
     },
     {
       "description": "Lose miserably",
-      "isCompleted": true,
+      "isCompleted": false,
       "todolistId": 7,
       "id": 15
     },
